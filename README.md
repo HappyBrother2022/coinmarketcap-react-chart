@@ -1,12 +1,12 @@
 # Coinmarketcap Graph
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-> Graph rendering from [go-coinmarketcap](https://github.com/hexoul/go-coinmarketcap)'s statistics log.
+> Graph rendering from [go-coinmarketcap](https://github.com/happybrother2022/go-coinmarketcap)'s statistics log.
 In addition, support searchable info table and CSV download.
 
 
 ## Sample
-![Sample](https://raw.githubusercontent.com/hexoul/coinmarketcap-react-chart/master/sample.png)
+![Sample](https://raw.githubusercontent.com/happybrother2022/coinmarketcap-react-chart/master/sample.png)
 
 ## Preview
 
@@ -24,7 +24,7 @@ $ serve -l 3003 -s build
 ```
 
 ## Log format
-Log will be automatically piled by [go-cryptoinfo-gather](https://github.com/hexoul/go-cryptoinfo-gather) using [go-coinmarketcap](https://github.com/hexoul/go-coinmarketcap). For detail, please refer the repos.
+Log will be automatically piled by [go-cryptoinfo-gather](https://github.com/happybrother2022/go-cryptoinfo-gather) using [go-coinmarketcap](https://github.com/happybrother2022/go-coinmarketcap). For detail, please refer the repos.
 
 Examples for log format are here
 ```
@@ -44,8 +44,8 @@ Examples for log format are here
 
 ## What more
 
-- [go-cryptoinfo-gather](https://github.com/hexoul/go-cryptoinfo-gather)
-- [go-coinmarketcap](https://github.com/hexoul/go-coinmarketcap)
+- [go-cryptoinfo-gather](https://github.com/happybrother2022/go-cryptoinfo-gather)
+- [go-coinmarketcap](https://github.com/happybrother2022/go-coinmarketcap)
 - [antd](https://github.com/ant-design/ant-design/)
 - [babel-plugin-import](http://github.com/ant-design/babel-plugin-import/)
 - [create-react-app](https://github.com/facebookincubator/create-react-app)
